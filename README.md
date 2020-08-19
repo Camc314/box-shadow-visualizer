@@ -1,6 +1,8 @@
 # Box Shadow Visualizer
 A simple project built on React to visualize the css function [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
 
+<img alt="picture showing a demo of the site" src="https://github.com/Camc314/box-shadow-visualizer/blob/master/2020-08-19-Readme-Picture.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
