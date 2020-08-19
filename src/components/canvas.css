@@ -1,0 +1,13 @@
+.canvasContainer {
+    width: 20em;
+    height: 20em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.canvas {
+    width: 10em;
+    height: 10em;
+    background-color: #a1a1a1
+}
